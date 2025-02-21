@@ -13,5 +13,5 @@ fun getAge() : Int? = readLine()?.toInt() //мы уменьшили код в р
 fun main() {
     printNameAndAge(userName =  getName(), userAge = getAge()) //метод который принимает в себя 2 параметра кол-во может формироваться от условния программы
     //Функция принимает в себя name и age, можно ее просто вызвать функция(name, age) а можно явно указать что мы передаем наш name в name функции, типо функция(name=name, age=age)
-
+ val egor = 1
 }
