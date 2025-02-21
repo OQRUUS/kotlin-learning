@@ -24,13 +24,13 @@ fun main() {
    var counter =0
    counter++
    println(counter)
-           //операторы сравнения
-   println(a < b)
-   println(a > b)
-   println(a >= b)
-   println(a <= b)
-   println(a == b)
-   println(a != b)
 
+  //операторы сравнения
+   println(a < b) // Меньше чем
+   println(a > b) // Больше чем
+   println(a >= b) // Больше или равно
+   println(a <= b) // Меньше или равно
+   println(a == b) // Равно
+   println(a != b) // Неравно
 
 }
